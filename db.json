@@ -1,0 +1,71 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@test.ru"
+    },
+    {
+      "id": 2,
+      "name": "Moderator",
+      "email": "moderator@test.ru"
+    },
+    {
+      "id": 5,
+      "name": "testtest",
+      "email": "test@123"
+    },
+    {
+      "name": "wad@asd",
+      "email": "wd@sad",
+      "id": 7
+    },
+    {
+      "name": "wad@asd",
+      "email": "wd@sadw",
+      "id": 10
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "login": "test@test.ru",
+      "password": "123"
+    },
+    {
+      "login": "adw@sad",
+      "password": "e1",
+      "id": 2
+    },
+    {
+      "login": "wad@asd",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "login": "awd@w",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "login": "asd@w",
+      "password": "ad",
+      "id": 5
+    },
+    {
+      "login": "w@asdj",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "login": "asdd@asd",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "login": "awd@awd",
+      "password": "123",
+      "id": 8
+    }
+  ]
+}
